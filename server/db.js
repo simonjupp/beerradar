@@ -1,5 +1,10 @@
+
 const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://admin:1EDEasYMYXnnBa0o@cluster0.uizr6l4.mongodb.net/?retryWrites=true&w=majority', {
+require('dotenv').config(); // Load environment variables from .env
+
+const mongoURI = process.env.MONGODB_URI;
+
+mongoose.connect(mongoURI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
