@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "order" : 1,
+      "flavor": "Citrus",
+      "question": "How pronounced is the citrus flavor in this beer?",
+      "description": "Citrus flavors often include notes of orange, lemon, grapefruit, or lime, providing a zesty and refreshing profile."
+    },
+    {
+      "order" : 2,
+      "flavor": "Tropical Fruit",
+      "question": "To what extent do you taste tropical fruit in this beer?",
+      "description": "Tropical fruit flavors can encompass mango, pineapple, papaya, and passion fruit, contributing a juicy and exotic element."
+    },
+    {
+      "order" : 3,
+      "flavor": "Stone Fruit",
+      "question": "Rate the presence of stone fruit flavors in this beer.",
+      "description": "Stone fruit flavors include peach, apricot, and plum, imparting a slightly sweet and ripe character."
+    },
+    {
+      "order" : 4,
+      "flavor": "Berry",
+      "question": "How evident are berry notes in this beer's taste?",
+      "description": "Berry flavors involve hints of raspberry, blackberry, or blueberry, offering a touch of sweetness and tartness."
+    },
+    {
+      "order" : 5,
+      "flavor": "Floral",
+      "question": "How strong are the floral undertones in this beer?",
+      "description": "Floral notes resemble the scents of flowers, such as jasmine or rose, contributing a delicate and aromatic quality."
+    },
+    {
+      "order" : 6,
+      "flavor": "Grassy",
+      "question": "Evaluate the grassy aspect of this beer's flavor.",
+      "description": "Grassy flavors evoke the taste of fresh-cut grass, often linked with herbal and earthy characteristics."
+    },
+    {
+      "order" : 7,
+      "flavor": "Herbal",
+      "question": "Rate the herbal qualities in this beer's taste.",
+      "description": "Herbal flavors can remind you of mint, basil, or other culinary herbs, offering a unique and savory dimension."
+    },
+    {
+      "order" : 8,
+      "flavor": "Spice",
+      "question": "How prominent are the spice elements in this beer?",
+      "description": "Spice flavors involve a range of spices, such as cinnamon, clove, or black pepper, adding warmth and complexity."
+    },
+    {
+      "order" : 9,
+      "flavor": "Resin/Pine",
+      "question": "To what degree do you detect resinous or pine like notes in this beer?",
+      "description": "Resin flavors can resemble the resin of pine trees, lending a slightly resinous, earthy, and bitter characteristic."
+    }
+  ]
+}
