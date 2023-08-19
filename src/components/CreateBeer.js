@@ -14,7 +14,7 @@ const CreateBeer = ({ onBeerCreated }) => {
     const navigate = useNavigate();
 
     const beerStyles = [
-        'West Coast IPA', 'New England IPA', 'Session IPA', 'Pale Ale', 'Hazy Pale',
+        'West Coast IPA', 'New England IPA', 'Session IPA', 'Pale Ale',
         'American IPA', 'Double IPA', ' Triple IPA', 'Imperial IPA',
         'Stout', 'Porter', 'Belgian Dubbel',
         'Wheat Beer', 'Sour Ale', 'Lager',

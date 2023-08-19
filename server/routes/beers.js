@@ -62,7 +62,7 @@ router.put('/beers/:id/like', async (req, res) => {
 // Get all the questions
 router.get('/questions', async (req, res) => {
     try {
-        const questions = await Questions.find();
+        const questions = await Questions.find().sort({ order: 1 });
         res.json(questions);
     } catch (error) {
         res.status(500).json({ message: error.message });
